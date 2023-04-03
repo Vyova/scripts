@@ -132,4 +132,4 @@ end)
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/eosuwu/boblox/main/invite.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vyova/scripts/main/invite"))()
