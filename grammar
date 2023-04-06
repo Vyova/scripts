@@ -20,6 +20,9 @@ local Corrections = {
     ["gramer"] = "grammar",
     ["grammer"] = "grammar",
     ["anymor"] = "anymore",
+    ["idk"] = "I don't know",
+    ["idkw"] = "I don't know why,",
+    ["im a furry"] = "I'm a lifeless skid with no family",
     ["amerika"] = "america",
     ["gremmer"] = "grammar",
     
